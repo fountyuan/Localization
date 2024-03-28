@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language Code="zh-TW" Name="繁體中文"  Author="Fountyuan">
+	<LoginForm Text="登录">
+		<Buttons >
+			<LoginButton Text="登录"/>
+		</Buttons>
+		<Labels>
+			<AccountLabel  Text="帳號" />
+			<PasswordLabel Text="密碼" />
+			<LanguageLabel Text="語言"/>
+			<WorkbenchLabel Text=""/>
+		</Labels>
+		<DataGridView>
+		</DataGridView>
+	</LoginForm>
+	<General>
+		<Buttons >
+
+		</Buttons>
+		<Labels>
+
+		</Labels>
+	</General>
+	<Menus>
+
+	</Menus>
+	<Messages>
+		<Confirmation Text="確定"/>
+		<Error Text="錯誤"/>
+		<Information Text="消息"/>
+		<Warning Text="警告"/>
+	</Messages>
+	<Datasource>
+		<Boolean>
+			<Yes Text="是"/>
+			<No Text="否"/>
+		</Boolean>
+	</Datasource>
+</Language>

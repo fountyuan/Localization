@@ -1,0 +1,24 @@
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Fountain.WinForm.App.exe
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Fountain.WinForm.App.pdb
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.AssemblyReference.cache
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.LoginForm.resources
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.Properties.Resources.resources
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.GenerateResource.cache
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.CoreCompileInputs.cache
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.exe
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.pdb
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\Simplified.xml
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\Traditional.xml
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\Simplified.xml
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\Traditional.xml
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Fountain.WinForm.App.exe
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Fountain.WinForm.App.pdb
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.AssemblyReference.cache
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.LoginForm.resources
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.Properties.Resources.resources
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.GenerateResource.cache
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.csproj.CoreCompileInputs.cache
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.exe
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\obj\Debug\Fountain.WinForm.App.pdb
+G:\Works\WeChat Files\wxid_jq2ygluqp15h12\FileStorage\Fav\Temp\d922327d\res\63a1951aa0b6cbadd9d1356a6cf0e5b3\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\English.xml
+C:\Users\fountyuan\Desktop\Project\Fountain.WinForm.App\Fountain.WinForm.App\bin\Debug\Localization\English.xml

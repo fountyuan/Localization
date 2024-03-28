@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language Code="zh-EN" Name="English"  Author="Fountyuan">
+	<LoginForm Text="Login">
+		<Buttons >
+			<LoginButton Text="Login"/>
+		</Buttons>
+		<Labels>
+			<AccountLabel  Text="Account" />
+			<PasswordLabel Text="Password" />
+			<LanguageLabel Text="Language"/>
+			<WorkbenchLabel Text=""/>
+		</Labels>
+		<DataGridView>
+		</DataGridView>
+	</LoginForm>
+	<General>
+		<Buttons >
+
+		</Buttons>
+		<Labels>
+
+		</Labels>
+	</General>
+	<Menus>
+
+	</Menus>
+	<Messages>
+		<Confirmation Text="Confirmation"/>
+		<Error Text="Error"/>
+		<Information Text="Information"/>
+		<Warning Text="Warning"/>
+	</Messages>
+	<Datasource>
+		<Boolean>
+			<Yes Text="Yes"/>
+			<No Text="No"/>
+		</Boolean>
+	</Datasource>
+</Language>
